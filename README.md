@@ -1,2 +1,3 @@
 # hello-world
-1st repository named hello-world
+Hi everyone! xEEshEE here :)
+Checking out GiHun ;)
